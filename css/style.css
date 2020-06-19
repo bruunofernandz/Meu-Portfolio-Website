@@ -10869,6 +10869,14 @@ h5,
   .owl-carousel.home-slider .slider-item .slider-text {
     text-align: center;
   }
+  .owl-carousel.home-slider:not(.slider-text) {
+    display: none;
+  }
+
+  .text-mobile {
+    text-align: center;
+    margin: 50px 30px;
+  }
 }
 .owl-carousel.home-slider .slider-item .slider-text .one-third {
   width: 80%;
