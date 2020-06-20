@@ -52,8 +52,10 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-.text-mobile {
-  display: none;
+@media (min-width: 1000px) {
+  .text-mobile {
+    display: none;
+  }
 }
 
 article,
