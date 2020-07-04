@@ -11569,7 +11569,7 @@ h5,
   bottom: 0;
   content: "";
   opacity: 0;
-  background: #0075f6;
+  background: #121215;
   z-index: -1;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -11577,9 +11577,10 @@ h5,
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 812px) {
   .project .overlay {
-    opacity: 0.2;
+    opacity: 0.8;
+    background: #121215;
   }
 }
 .project .text {
