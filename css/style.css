@@ -11957,6 +11957,10 @@ textarea.form-control {
   font-size: 24px;
   line-height: 1;
 }
+.number-container {
+  display: flex;
+  align-items: center;
+}
 .ftco-counter .text span.number {
   font-weight: 400;
   color: #fff;
