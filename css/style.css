@@ -11427,6 +11427,7 @@ h5,
   letter-spacing: 3px;
   text-transform: uppercase;
   position: relative;
+  text-align: justify;
 }
 .services-1 .desc h3:after {
   position: absolute;
@@ -11438,14 +11439,17 @@ h5,
   height: 1px;
   background: #000000;
   margin: 0 auto;
+  text-align: justify;
 }
 .services-1 .desc h3 a {
   color: #000000;
+  text-align: justify;
 }
 .services-1 .desc h4 {
   font-size: 20px;
   font-weight: 300;
   margin-bottom: 18px;
+  text-align: justify;
 }
 .services-1 .desc span {
   display: block;
@@ -11453,6 +11457,7 @@ h5,
   font-size: 12px;
   margin-bottom: 10px;
   color: #0075f6;
+  text-align: justify;
 }
 
 .services-1 .desc p {
