@@ -11455,6 +11455,10 @@ h5,
   color: #0075f6;
 }
 
+.services-1 .desc p {
+  text-align: justify;
+}
+
 .progress-wrap {
   width: 100%;
   margin-bottom: 30px;
